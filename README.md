@@ -1,0 +1,2 @@
+# CryptoCritters
+A collection about CryptoCritters (Yes, world's known species of animals, plants, fungi and micro-organisms.) on the Blockchain! and CryptoCritters - digital collectibles secured on a distributed public databases w/ crypto hashes. Are CryptoCritters the new CryptoKitties? Well it is a real world use case with profits donated back to the most appropriate NGO to protect the real world Critter! Learn by Example from the Real World (Anno 2017) - Buy! Sell! Hodl! Breed!
